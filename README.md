@@ -1,7 +1,7 @@
 ### Hi there , I'm Subash Chandran👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=subashsakthivel&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashsakthivel&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=subashchandran0&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashchandran0&layout=compact"/>
 
 
 
