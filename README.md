@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there , I'm Subash Chandran👋
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=subashsakthivel&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashsakthivel&layout=compact"/>
+
+
+
+- 👯 I’m happy to collaborate in innovative projects 
+- 📫 How to reach me: subashchandran.c03@gmail.com
+
 
 <!--
-**Subashchandran0/Subashchandran0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**subashsakthivel/subashsakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
